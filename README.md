@@ -97,7 +97,7 @@ Welcome to my **2025 Projects Collection**! This year is all about **learning, b
 
 ## 🎥 Follow My Journey
 - **GitHub:** [github.com/ProDotNet](https://github.com/ProDotNet)
-- **YouTube:** [Sphesihle Ngidi - Code with S’phe](https://www.youtube.com/@yourchannelname) (I can help you set this up if you want!)
+- **YouTube:** [Sphesihle Ngidi - Code with S’phe](https://www.youtube.com/@prodotnet) 
 - **Blog:** [prodotnet.github.io/sphesihlengidi](https://prodotnet.github.io/sphesihlengidi)
 
 ---
