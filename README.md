@@ -2,6 +2,7 @@
 **Author:** S'phesihle Ngidi  
 **Goal:** Build projects to sharpen skills, showcase work on GitHub, and explore new tech (AI, Docker, CI/CD)
 
+Welcome to my **2025 Projects Collection**! This year is all about **learning, building impactful projects, and contributing to the developer community**.
 ---
 
 ## 📅 Project Roadmap
@@ -83,14 +84,27 @@
 | Cloud (Optional) | Azure (App Service, Containers) |
 
 ---
+## 🚀 Goals for 2025
 
-## ⚡ Bonus Ideas
-- Start a **Tech Blog** on GitHub Pages or Dev.to
-- Create a **YouTube Playlist** showing project walkthroughs
-- Participate in at least 2 open source issues from other projects (contribute to real-world projects)
+✅ Build a **signature project** to show off my skills  
+✅ Contribute to at least **2 open source projects**  
+✅ Start a **Tech Blog** to document my learning journey  
+✅ Publish at least **5 YouTube videos** to help fellow developers  
+✅ Learn **Docker, ML.NET and Advanced GitHub Actions**  
+✅ Focus on **Problem Solving & Real-World Impact**
 
 ---
 
-## 📂 Folder Structure Suggestion
-Create a folder for 2025 projects:
+## 🎥 Follow My Journey
+- **GitHub:** [github.com/ProDotNet](https://github.com/ProDotNet)
+- **YouTube:** [Sphesihle Ngidi - Code with S’phe](https://www.youtube.com/@yourchannelname) (I can help you set this up if you want!)
+- **Blog:** [prodotnet.github.io/sphesihlengidi](https://prodotnet.github.io/sphesihlengidi)
+
+---
+
+## 💬 Want to Collaborate?
+I’m open to collab with developers passionate about **AI, Fullstack Development, and Open Source**. Let’s build something cool together!
+
+---
+
 
